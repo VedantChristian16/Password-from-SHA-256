@@ -1,6 +1,9 @@
 '''
 Created by Vedant Christian
 Created on 06 / 10 / 2019
+
+
+You will need to download the file, "rockyou.txt", from the internet as it is a very large file and would not be uploaded onto the repository.
 '''
 
 from urllib.request import urlopen, hashlib
